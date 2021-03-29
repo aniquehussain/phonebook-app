@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: rgba(255, 255, 255, 0); display: block; shape-rendering: auto; animation-play-state: running; animation-delay: 0s;" width="210px" height="210px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+<g transform="rotate(0 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.9015256588072122s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(25.714285714285715 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.8321775312066574s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(51.42857142857143 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.7628294036061026s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(77.14285714285714 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.6934812760055479s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(102.85714285714286 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.6241331484049931s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(128.57142857142858 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.5547850208044383s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(154.28571428571428 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.4854368932038835s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(180 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.4160887656033287s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(205.71428571428572 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.34674063800277394s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(231.42857142857142 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.27739251040221913s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(257.14285714285717 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.20804438280166435s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(282.85714285714283 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.13869625520110956s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(308.57142857142856 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="-0.06934812760055478s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g><g transform="rotate(334.2857142857143 50 50)" style="animation-play-state: running; animation-delay: 0s;">
+  <rect x="49.5" y="25.5" rx="0" ry="0" width="1" height="11" fill="#0a69aa" style="animation-play-state: running; animation-delay: 0s;">
+    <animate attributeName="opacity" values="1;0" keyTimes="0;1" dur="0.970873786407767s" begin="0s" repeatCount="indefinite" style="animation-play-state: running; animation-delay: 0s;"></animate>
+  </rect>
+</g>
+<!-- [ldio] generated by https://loading.io/ --></svg>
