@@ -33,7 +33,8 @@ const AuthState = props => {
     
     localStorage.token && setAuthToken(localStorage.token);
   try {
-  const res = await Axios.get('api/auth/');
+    //Danger
+  const res = await Axios.get('/api/auth/');
 
   dispatch({type: USER_LOADED, payload: res.data})
   } catch (err) {
