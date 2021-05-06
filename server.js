@@ -12,6 +12,7 @@ connectDB();
 var corsOptions = {
     origin: 'http://localhost:3000',
     }
+app.use(express.static(path.join(__dirname, 'client/build')));
 app.use(cors(corsOptions));
 
 // Init Middleware
