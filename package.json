@@ -1,7 +1,7 @@
 {
-	"name": "contact_keeper_api",
+	"name": "phonebook_api",
 	"version": "1.0.0",
-	"description": "Backend for Contact Keeper app",
+	"description": "Backend for Phonebook app",
 	"main": "server.js",
 	"scripts": {
 		"build": "cd client && npm run build",
